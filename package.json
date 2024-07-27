@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "start": "nodemon ./main.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "daemon": "^1.1.0",
+    "express": "^4.19.2",
+    "node": "^20.16.0",
+    "nodemon": "^3.1.4"
+  }
+}

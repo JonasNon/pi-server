@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+}
+
+
+#back {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#center-box {
+  height: 30vh;
+  width: 30vw;
+  border-radius: 20%;
+  background-color: limegreen;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  outline: solid 3px darkgreen;
+}
+
+h1 {
+  font-size: 100;
+}
